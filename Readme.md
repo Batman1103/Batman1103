@@ -4,7 +4,7 @@ Software Engineer focused on building scalable systems, solving complex problems
 
 ## Skills
 
-* **Languages:** C++, Python, Gdscript.
+* **Languages:** C++, Python, Gdscript
 * **Core:** Data Structures & Algorithms, OOP, Problem Solving
 * **Technologies:** Git, Linux, Android Development, ESP32 / IoT
 * **Currently Learning:** Machine Learning, Backend Development, System Design
