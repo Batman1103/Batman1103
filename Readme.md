@@ -20,7 +20,7 @@ Software Engineer focused on building scalable systems, solving complex problems
 ## Competitive Programming
 
 * Regular LeetCode practice focused on medium and hard problems
-* Strong focus on algorithmic thinking and optimization..
+* Strong focus on algorithmic thinking and optimization.
 
 
 
