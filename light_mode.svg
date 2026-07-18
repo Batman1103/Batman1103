@@ -48,35 +48,35 @@
       <g class="stat-anim" style="animation-delay: 0.3s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Total Repositories:</text>
-        <text x="220" y="0" class="stat-value">24</text>
+        <text x="220" y="0" class="stat-value">25</text>
       </g>
     </g>
     <g transform="translate(0, 32)">
       <g class="stat-anim" style="animation-delay: 0.45s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Total Commits:</text>
-        <text x="220" y="0" class="stat-value">1,240</text>
+        <text x="220" y="0" class="stat-value">191</text>
       </g>
     </g>
     <g transform="translate(0, 64)">
       <g class="stat-anim" style="animation-delay: 0.6s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Total Stars Earned:</text>
-        <text x="220" y="0" class="stat-value">18</text>
+        <text x="220" y="0" class="stat-value">1</text>
       </g>
     </g>
     <g transform="translate(0, 96)">
       <g class="stat-anim" style="animation-delay: 0.75s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Followers:</text>
-        <text x="220" y="0" class="stat-value">12</text>
+        <text x="220" y="0" class="stat-value">2</text>
       </g>
     </g>
     <g transform="translate(0, 128)">
       <g class="stat-anim" style="animation-delay: 0.9s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Lines of Code:</text>
-        <text x="220" y="0" class="stat-value">52,300++, 9,800--</text>
+        <text x="220" y="0" class="stat-value">3,844,000++, 11,134--</text>
       </g>
     </g>
   </g>
