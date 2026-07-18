@@ -40,7 +40,7 @@
   <rect class="bg" x="0.5" y="0.5" rx="10" width="494" height="229" />
   <rect class="border" x="0.5" y="0.5" rx="10" width="494" height="229" />
 
-  <text x="25" y="38" class="title">Harshit's GitHub Stats</text>
+  <text x="25" y="38" class="title">GitHub Stats:</text>
   <text x="25" y="58" class="subtitle">Software Engineer · C++ / Python / GDScript</text>
 
   <g transform="translate(25, 85)">
