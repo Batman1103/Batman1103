@@ -89,6 +89,7 @@ Game Development & Full Stack Development along the way.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Firebase Studio](https://img.shields.io/badge/-Firebase%20Studio-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 **CS Fundamentals**
 
