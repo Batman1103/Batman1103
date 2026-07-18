@@ -76,6 +76,8 @@ Game Development & Full Stack Development along the way.
 **Game Development**
 
 ![Godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-000000?style=flat-square&logo=roblox&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 **Tools & Technologies**
