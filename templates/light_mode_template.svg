@@ -1,0 +1,83 @@
+<svg width="495" height="230" viewBox="0 0 495 230" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #fffefe; }
+    .border { fill: none; stroke: #e4e2e2; stroke-width: 1; }
+    .title {
+      font: 600 20px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #2f80ed;
+      opacity: 0;
+      animation: fadeIn 0.6s ease-in-out forwards;
+    }
+    .subtitle {
+      font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #4c4c4c;
+      opacity: 0;
+      animation: fadeIn 0.6s ease-in-out 0.2s forwards;
+    }
+    .stat-label {
+      font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #434d58;
+    }
+    .stat-value {
+      font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #2f80ed;
+    }
+    .stat-anim {
+      opacity: 0;
+      animation: slideIn 0.5s ease-out forwards;
+    }
+    .icon { fill: #2f80ed; }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateX(-10px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+
+  <rect class="bg" x="0.5" y="0.5" rx="10" width="494" height="229" />
+  <rect class="border" x="0.5" y="0.5" rx="10" width="494" height="229" />
+
+  <text x="25" y="38" class="title">Harshit's GitHub Stats</text>
+  <text x="25" y="58" class="subtitle">Software Engineer · C++ / Python / GDScript</text>
+
+  <g transform="translate(25, 85)">
+    <g transform="translate(0, 0)">
+      <g class="stat-anim" style="animation-delay: 0.3s">
+        <circle class="icon" cx="6" cy="-4" r="4" />
+        <text x="20" y="0" class="stat-label">Total Repositories:</text>
+        <text x="220" y="0" class="stat-value">{{REPOS}}</text>
+      </g>
+    </g>
+    <g transform="translate(0, 32)">
+      <g class="stat-anim" style="animation-delay: 0.45s">
+        <circle class="icon" cx="6" cy="-4" r="4" />
+        <text x="20" y="0" class="stat-label">Total Commits:</text>
+        <text x="220" y="0" class="stat-value">{{COMMITS}}</text>
+      </g>
+    </g>
+    <g transform="translate(0, 64)">
+      <g class="stat-anim" style="animation-delay: 0.6s">
+        <circle class="icon" cx="6" cy="-4" r="4" />
+        <text x="20" y="0" class="stat-label">Total Stars Earned:</text>
+        <text x="220" y="0" class="stat-value">{{STARS}}</text>
+      </g>
+    </g>
+    <g transform="translate(0, 96)">
+      <g class="stat-anim" style="animation-delay: 0.75s">
+        <circle class="icon" cx="6" cy="-4" r="4" />
+        <text x="20" y="0" class="stat-label">Followers:</text>
+        <text x="220" y="0" class="stat-value">{{FOLLOWERS}}</text>
+      </g>
+    </g>
+    <g transform="translate(0, 128)">
+      <g class="stat-anim" style="animation-delay: 0.9s">
+        <circle class="icon" cx="6" cy="-4" r="4" />
+        <text x="20" y="0" class="stat-label">Lines of Code:</text>
+        <text x="220" y="0" class="stat-value">{{LOC_ADDED}}++, {{LOC_DELETED}}--</text>
+      </g>
+    </g>
+  </g>
+</svg>

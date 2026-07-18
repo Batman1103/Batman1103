@@ -1,0 +1,42 @@
+
+name: Update GitHub Stats Card
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC. Adjust as you like.
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run stats script
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USERNAME: Batman1103
+        run: python today.py
+
+      - name: Commit updated SVGs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add light_mode.svg dark_mode.svg
+          git diff --quiet --cached || git commit -m "Update GitHub stats card"
+          git push
