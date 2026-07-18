@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm Harshit Namdev 👋
 
 **Computer Science Engineering Student · Aspiring Software Engineer**
@@ -8,13 +6,9 @@ Passionate about AI, Machine Learning, and Software Development —
 building real-world projects, solving DSA problems, and exploring
 Game Development & Full Stack Development along the way.
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
 
 <br/>
 
@@ -29,25 +23,18 @@ Game Development & Full Stack Development along the way.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java%20(Learning)-lightgrey?style=flat-square&logo=openjdk&logoColor=black)
-![C](https://img.shields.io/badge/-C%20(Basics)-lightgrey?style=flat-square&logo=c&logoColor=black)
 
-**Frontend**
+**Web Development**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/-React%20(Learning)-lightgrey?style=flat-square&logo=react&logoColor=black)
-
-**Backend**
-
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -56,7 +43,6 @@ Game Development & Full Stack Development along the way.
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20(Basics)-lightgrey?style=flat-square&logo=postgresql&logoColor=black)
 
 **AI & Machine Learning**
 
@@ -70,8 +56,6 @@ Game Development & Full Stack Development along the way.
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-
 
 **Game Development**
 
@@ -91,31 +75,9 @@ Game Development & Full Stack Development along the way.
 ![Firebase Studio](https://img.shields.io/badge/-Firebase%20Studio-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-**CS Fundamentals**
-
-![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-orange?style=flat-square)
-![OOP](https://img.shields.io/badge/-Object--Oriented%20Programming-blue?style=flat-square)
-![OS](https://img.shields.io/badge/-Operating%20Systems-2f80ed?style=flat-square)
-![DBMS](https://img.shields.io/badge/-DBMS-47A248?style=flat-square)
-![CN](https://img.shields.io/badge/-Computer%20Networks%20(Learning)-lightgrey?style=flat-square)
-![System Design](https://img.shields.io/badge/-System%20Design%20(Learning)-lightgrey?style=flat-square)
-
-**Interests**
-
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-9146FF?style=flat-square)
-![ML](https://img.shields.io/badge/-Machine%20Learning-9146FF?style=flat-square)
-![CP](https://img.shields.io/badge/-Competitive%20Programming-FFA116?style=flat-square)
-![Full Stack](https://img.shields.io/badge/-Full%20Stack%20Development-6E4C13?style=flat-square)
-![Game Dev](https://img.shields.io/badge/-Game%20Development-478CBF?style=flat-square)
-![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
 <br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Batman1103/Batman1103/main/dark_mode.svg">
@@ -123,12 +85,6 @@ Game Development & Full Stack Development along the way.
   <img alt="Batman1103's GitHub Stats" src="https://raw.githubusercontent.com/Batman1103/Batman1103/main/light_mode.svg">
 </picture>
 
-</div>
-
 <br/>
 
-<div align="center">
-
 *Thanks for stopping by — always open to connecting and collaborating!*
-
-</div>
