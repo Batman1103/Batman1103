@@ -24,11 +24,7 @@
 
 ## 🧠 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=harshit%40dev%3A~%24+whoami;%3E+Computer+Science+Engineering+Student+%F0%9F%8E%93;harshit%40dev%3A~%24+cat+interests.txt;%3E+AI+%2F+Machine+Learning+%2F+Software+Development+%F0%9F%A4%96;harshit%40dev%3A~%24+ls+current_focus%2F;%3E+DSA+Problems+%7C+Real-World+Projects+%F0%9F%A7%A9;harshit%40dev%3A~%24+echo+%24EXPLORING;%3E+Game+Dev+%7C+Full+Stack+Development+%F0%9F%8E%AE" alt="Terminal About Me" />
-</div>
-
-<br/>
+<img src="terminal.svg" alt="Terminal About Me" width="700"/>
 
 ## 🛠️ Tech Stack
 
