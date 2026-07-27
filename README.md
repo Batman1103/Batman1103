@@ -1,5 +1,26 @@
-# Hi there, I'm Harshit Namdev 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&duration=3200&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Hi+there+%F0%9F%91%8B+I'm+Harshit+Namdev;Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Turning+Ideas+%2B+Code+into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Competitive+Programmer+%7C+DSA+Enthusiast;Game+Dev+with+Godot+%26+Roblox+Studio;Exploring+IoT+with+Arduino+%26+ESP32;Building+with+Python%2C+C%2B%2B+%26+JavaScript;Always+Open+to+Learning+and+Collaborating" alt="Roles and Interests" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Batman1103">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Batman1103&style=for-the-badge&color=2563EB" />
+</div>
+
+<p align="center">
+<a href="https://github.com/Batman1103"><img src="https://img.shields.io/badge/GitHub-Follow-forestgreen?style=flat&logo=github" alt="GitHub"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/Batman1103/"><img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=flat&logo=LeetCode" alt="LeetCode"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel" alt="Portfolio"></a>
+</p>
+
+# Hi there, I'm Harshit Namdev 👋
 **Computer Science Engineering Student · Aspiring Software Engineer**
 
 Passionate about AI, Machine Learning, and Software Development —
