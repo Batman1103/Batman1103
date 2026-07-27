@@ -20,18 +20,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel" alt="Portfolio"></a>
 </p>
 
-# Hi there, I'm Harshit Namdev 👋
-**Computer Science Engineering Student · Aspiring Software Engineer**
 
-Passionate about AI, Machine Learning, and Software Development —
-building real-world projects, solving DSA problems, and exploring
-Game Development & Full Stack Development along the way.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-<br/>
 
 ## 🧠 About Me
 
