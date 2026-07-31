@@ -92,4 +92,3 @@
 
 <br/>
 
-*Thanks for stopping by — always open to connecting and collaborating!*
