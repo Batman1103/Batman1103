@@ -15,11 +15,10 @@
 
 <p align="center">
 <a href="https://github.com/Batman1103"><img src="https://img.shields.io/badge/GitHub-Follow-forestgreen?style=flat&logo=github" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/harshit-namdev-52216230b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin" alt="LinkedIn"></a>
-<a href="https://leetcode.com/u/batman404/"><img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=flat&logo=LeetCode" alt="LeetCode"></a>
-<a href="https://batman1103.github.io/Portfolio/#contact"><img src="[https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/harshit-namdev-52216230b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/batman404/"><img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
+<a href="https://batman1103.github.io/Portfolio/#contact"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel" alt="Portfolio"></a>
 </p>
-
 
 
 ## 🧠 About Me
