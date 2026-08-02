@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&duration=3200&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Hi+there+%F0%9F%91%8B+I'm+Harshit+Namdev;Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Turning+Ideas+%2B+Code+into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&duration=3200&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Hi+there+%F0%9F%91%8B+I'm+Harshit+Namdev;Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Turning+Ideas+%2B+Code+into+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Competitive+Programmer+%7C+DSA+Enthusiast;Game+Dev+with+Godot+%26+Roblox+Studio;Exploring+IoT+with+Arduino+%26+ESP32;Building+with+Python%2C+C%2B%2B+%26+JavaScript;Always+Open+to+Learning+and+Collaborating" alt="Roles and Interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Competitive+Programmer+%7C+DSA+Enthusiast;Game+Dev+with+Godot+%26+Roblox+Studio;Exploring+IoT+with+Arduino+%26+ESP32;Building+with+Python%2C+C%2B%2B+%26+JavaScript;Always+Open+to+Learning+and+Collaborating" alt="Roles and Interests" />
 </div>
-
 <div align="center">
   <a href="https://github.com/Batman1103">
     <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
