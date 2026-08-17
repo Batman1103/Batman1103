@@ -76,7 +76,7 @@
       <g class="stat-anim" style="animation-delay: 0.9s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Lines of Code:</text>
-        <text x="220" y="0" class="stat-value">3,855,824++, 12,855--</text>
+        <text x="220" y="0" class="stat-value">3,854,050++, 12,845--</text>
       </g>
     </g>
   </g>
