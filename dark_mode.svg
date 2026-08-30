@@ -55,7 +55,7 @@
       <g class="stat-anim" style="animation-delay: 0.45s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Total Commits:</text>
-        <text x="220" y="0" class="stat-value">1,019</text>
+        <text x="220" y="0" class="stat-value">1,021</text>
       </g>
     </g>
     <g transform="translate(0, 64)">
@@ -76,7 +76,7 @@
       <g class="stat-anim" style="animation-delay: 0.9s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Lines of Code:</text>
-        <text x="220" y="0" class="stat-value">4,936,819++, 12,867--</text>
+        <text x="220" y="0" class="stat-value">6,016,641++, 1,092,689--</text>
       </g>
     </g>
   </g>
