@@ -48,14 +48,14 @@
       <g class="stat-anim" style="animation-delay: 0.3s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Total Repositories:</text>
-        <text x="220" y="0" class="stat-value">34</text>
+        <text x="220" y="0" class="stat-value">35</text>
       </g>
     </g>
     <g transform="translate(0, 32)">
       <g class="stat-anim" style="animation-delay: 0.45s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Total Commits:</text>
-        <text x="220" y="0" class="stat-value">1,030</text>
+        <text x="220" y="0" class="stat-value">1,034</text>
       </g>
     </g>
     <g transform="translate(0, 64)">
@@ -76,7 +76,7 @@
       <g class="stat-anim" style="animation-delay: 0.9s">
         <circle class="icon" cx="6" cy="-4" r="4" />
         <text x="20" y="0" class="stat-label">Lines of Code:</text>
-        <text x="220" y="0" class="stat-value">7,117,429++, 2,172,512--</text>
+        <text x="220" y="0" class="stat-value">7,120,626++, 2,172,512--</text>
       </g>
     </g>
   </g>
